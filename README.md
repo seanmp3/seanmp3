@@ -1,4 +1,5 @@
 Hi there 👋
+-----------
 
 My name is Sean Mahan; I'm a Full Stack Engineer excited to take the leap into the tech industry.
 
@@ -13,4 +14,9 @@ Testing: Jest, Cypress.io, Postman, HTTPie
 Additional Skills: Agile Development, Scrum Development, Algorithms, VS Code, Trello
 
 
-Feel free to reach out to seanmahansm@gmail.com for any business inquiries.
+Feel free to reach out to me across the web
+-------------------------------------------
+
+Business Email - seanmahansm@gmail.com
+
+Linkedin - https://www.linkedin.com/in/seanmahansm/
