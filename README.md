@@ -1,7 +1,7 @@
 Hi there 👋
 -----------
 
-My name is Sean Mahan; I'm a Full Stack Engineer excited to take the leap into the tech industry.
+My name is Sean Mahan; I'm a Full Stack Engineer excited to code some good into the world.
 
 My Technical Skills:
 --------------------
