@@ -5,7 +5,7 @@ My name is Sean Mahan; I'm a Full Stack Engineer excited to code some good into 
 
 My Technical Skills:
 --------------------
-Frontend: React.js, Redux, HTML, CSS, JavaScript, Axios, Styled-Components, Material-UI, Ant Design, Yup, Vercel, Netlify
+Frontend: React.js, Redux, HTML, CSS, Sass, JavaScript, Axios, Styled-Components, Material-UI, Ant Design, Yup, Vercel, Netlify
 
 Backend: Node.js, Express.js, SQLite3, Knex.js, JWT, Python, SQL, PostgreSQL, Heroku
 
