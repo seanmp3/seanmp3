@@ -7,7 +7,7 @@ My Technical Skills:
 --------------------
 Frontend: React.js, Redux, HTML, CSS, Sass, JavaScript, Axios, Styled-Components, Material-UI, Ant Design, Yup, Vercel, Netlify
 
-Backend: Node.js, Express.js, SQLite3, Knex.js, JWT, Python, SQL, PostgreSQL, Heroku
+Backend: Node.js, Express.js, Firebase, SQLite3, Knex.js, JWT, Python, SQL, PostgreSQL, Heroku
 
 Testing: Jest, Cypress.io, Postman, HTTPie 
 
